@@ -1,0 +1,243 @@
+@media  only screen and (min-width:415px) and (max-width:1440px) {
+    h1 {
+        color: black;
+    }
+    a {
+      color: black; 
+      background-color: white; 
+      text-decoration: none;
+    }
+    ul#nav {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: white;
+    }
+    ul#nav li {
+      float: left;
+    }
+    li  a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 10px 15px;
+      text-decoration: overline;
+    }
+    li  a:hover {
+      background-color: gainsboro;
+    }
+    ul#media{
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        list-style-type: none;
+        float: center;
+    }
+    body#home {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }
+    body#about-me {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }
+    body#city {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }body#travel {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }body#sports {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }
+    div.gallery {
+      margin: 5px;
+      border: none;
+      float: center;
+      width: 400px;
+    }
+
+    div.gallery:hover {
+      border: 5px solid #777;
+    }
+
+    div.gallery img {
+      width: 100%;
+      height: auto;
+    }
+
+    div.desc {
+      padding: 15px;
+      text-align: center;
+    }
+    main#home {
+        text-align: left;
+    }
+    main#trav {
+        display: flex;
+        flex-wrap: wrap;
+        width: 850px;
+        margin: auto;
+    }
+    main#spo {
+        display: flex;
+        flex-wrap: wrap;
+        width: 850px;
+        margin: auto;
+    }
+    main#cit {
+        display: flex;
+        flex-wrap: wrap;
+        width: 850px;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:414px) {
+     h1 {
+        color: black;
+    }
+    a {
+      color: black; 
+      background-color: white; 
+      text-decoration: none;
+    }
+    ul#nav {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: white;
+    }
+    ul#nav li {
+      float: left;
+    }
+    li  a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 10px 15px;
+      text-decoration: overline;
+    }
+    li  a:hover {
+      background-color: gainsboro;
+    }
+    ul#media{
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        list-style-type: none;
+        float: center;
+    }
+    body#home {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }
+    body#about-me {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }
+    body#city {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }body#travel {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }body#sports {
+        background: white;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+        color: #545454;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        line-height: 1.5;
+        text-align: center;
+    }
+    div.gallery {
+      margin: 5px;
+      border: none;
+      float: center;
+      width: 400px;
+    }
+
+    div.gallery:hover {
+      border: 5px solid #777;
+    }
+
+    div.gallery img {
+      width: 100%;
+      height: auto;
+    }
+
+    div.desc {
+      padding: 15px;
+      text-align: center;
+    }
+    main#home {
+        text-align: left;
+    }
+    main#trav {
+        display: flex;
+        flex-wrap: wrap;
+        width: 850px;
+        margin: auto;
+    }
+    main#spo {
+        display: flex;
+        flex-wrap: wrap;
+        width: 850px;
+        margin: auto;
+    }
+    main#cit {
+        display: flex;
+        flex-wrap: wrap;
+        width: 850px;
+        margin: auto;
+    }
+}
